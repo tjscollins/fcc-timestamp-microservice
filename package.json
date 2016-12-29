@@ -4,7 +4,8 @@
   "description": "A Timestamp Microservice for FCC",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "Tyler Collins",
   "license": "MIT",
